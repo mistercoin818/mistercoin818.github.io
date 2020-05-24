@@ -20,7 +20,8 @@ description:
   about Application Development, Integration, Cloud, Big Data and Digital Transformation
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  alainpham
-remote_theme:alainpham/alainpham.github.io
+remote_theme:alainpham/SIMPLE GREEN TECHBLOG
+
 # jekyll-paginate configuration
 paginate: 10
 
